@@ -14,6 +14,8 @@ checklist:
 
 - [ ] Exponencial
 
+- [ ] Fibonacci
+
 - [ ] Conversões
 
   - [ ] Decimal para Binário
